@@ -4,7 +4,7 @@ body {
     width: 550px;
     height: 729px;
     font-family: 'Inter', sans-serif;
-    
+    margin: auto;
 }
 
 #top-container {
